@@ -1,6 +1,3 @@
-//
-// Created by Devang Jaiswal on 8/22/24.
-//
 
 #ifndef REDIS_DLL_H
 #define REDIS_DLL_H
