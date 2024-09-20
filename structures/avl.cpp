@@ -1,6 +1,4 @@
-//
-// Created by Devang Jaiswal on 8/21/24.
-//
+
 #include <cstdint>
 #include <cstddef>
 #include <algorithm>
