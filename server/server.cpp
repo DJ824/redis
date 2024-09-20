@@ -1,6 +1,4 @@
-//
-// Created by Devang Jaiswal on 8/16/24.
-//
+
 #include <map>
 #include <string>
 #include <vector>

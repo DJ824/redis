@@ -1,6 +1,4 @@
-//
-// Created by Devang Jaiswal on 8/20/24.
-//
+
 
 #ifndef REDIS_HASHTABLE_H
 #define REDIS_HASHTABLE_H

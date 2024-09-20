@@ -1,6 +1,4 @@
-//
-// Created by Devang Jaiswal on 8/21/24.
-//
+
 
 #ifndef REDIS_ZSET_H
 #define REDIS_ZSET_H
