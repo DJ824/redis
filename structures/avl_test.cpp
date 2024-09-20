@@ -1,6 +1,4 @@
-//
-// Created by Devang Jaiswal on 8/21/24.
-//
+
 #include "avl.cpp"
 #include <set>
 #define container_of(ptr, type, member) ({                  \
